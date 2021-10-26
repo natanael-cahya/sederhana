@@ -1,3 +1,5 @@
+LOGIN FORM => username : a | password : b (simple login tanpa database hanya untuk mencoba Hooks)
+
 ###################
 What is CodeIgniter
 ###################
