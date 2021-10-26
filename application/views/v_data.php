@@ -43,8 +43,6 @@
   </ul>
 </nav> -->
 	<nav aria-label="Page navigation">
-
-
 		 
 	<?php 
 	echo $links;
