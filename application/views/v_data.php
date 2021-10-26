@@ -16,10 +16,10 @@
 <br><br>
 	<table class="table table-striped">
 		<tr>
-			<th>no</th>
-			<th>nama</th>
-			<th>alamat</th>
-			<th>pekerjaan</th>		
+			<th>No</th>
+			<th><?= $this->lang->line('table')[0]; ?></th>
+			<th><?= $this->lang->line('table')[1]; ?></th>
+			<th><?= $this->lang->line('table')[2]; ?></th>		
 		</tr>
 		<?php 
 		foreach($user as $u){ 
